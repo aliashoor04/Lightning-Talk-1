@@ -19,4 +19,4 @@ This repository contains the EDA notebook and slide deck for three potential cap
 
 ## Author
 
-**Ali Ashoor** — B.Sc. Electromechanical Engineering, Bahrain Polytechnic
+**Ali Ashoor** — B.Sc. Electromechanical Engineering | Data Scientist  
